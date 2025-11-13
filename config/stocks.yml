@@ -1,20 +1,16 @@
 - type: markets
   markets:
-    - symbol: SPY
-      name: S&P 500
-    - symbol: VOO
-      name: VOO
     - symbol: VTI
       name: VTI
-    - symbol: TSM
-      name: TSM
-    - symbol: ASML
-      name: ASML
+    - symbol: QQQ
+      name: QQQ
+    - symbol: AAPL
+      name: AAPL
+    - symbol: SEV
+      name: SEV
     - symbol: ACHR
       name: Archer Aviation
     - symbol: JOBY
       name: Joby Aviation
     - symbol: V
       name: V
-    - symbol: SMCI
-      name: SMCI
