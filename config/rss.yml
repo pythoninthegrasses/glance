@@ -1,65 +1,35 @@
 - type: rss
   collapse-after: 6
-  limit: 25
+  limit: 20
   cache: 8h
   style: vertical-list
   feeds:
+    - url: https://onefoottsunami.com/feed/json/
+      title: One Foot Tsunami
+    - url: https://selfh.st/rss/
+      title: selfh.st
+    - url: https://holdtherobot.com/blog/rss.xml
+      title: Hold the Robot
     - url: https://feeds.allenpike.com/feed/
       title: Allen Pike
     - url: https://www.amusingplanet.com/feeds/posts/default?alt=rss
       title: Amusing Planet
-    - url: https://www.apple.com/newsroom/rss-feed.rss
-      title: Apple News
     - url: https://feeds.arstechnica.com/arstechnica/index/
       title: Ars Technica
     - url: https://feeds.bbci.co.uk/news/world/rss.xml
       title: BBC News
     - url: https://www.thisiscolossal.com/feed/
       title: Colossal
-    - url: http://feeds.coolhunting.com/ch
-      title: Cool Hunting
-    - url: https://daringfireball.net/feeds/json
-      title: Daring Fireball
     - url: https://furbo.org/feed/json
       title: furbo.org
-    - url: https://inessential.com/feed.json
-      title: inessential
-    - url: https://feeds2.feedburner.com/itsnicethat/SlXC
-      title: It's Nice That
     - url: https://jvns.ca/atom.xml
       title: Julia Evans
-    - url: https://feeds.kottke.org/main
-      title: Kottke
-    - url: http://feeds.kottke.org/json
-      title: kottke.org
-    - url: https://www.manton.org/feed/json
-      title: Manton Reece
-    - url: https://vincode.io/feed.xml
-      title: Maurice Parker
-    - url: https://mjtsai.com/blog/feed/
-      title: Michael Tsai
-    - url: https://netnewswire.blog/feed.json
-      title: NetNewsWire
     - url: https://www.nomadicmatt.com/feed/
       title: Nomadic Matt
-    - url: https://onefoottsunami.com/feed/json/
-      title: One Foot Tsunami
-    - url: https://feedpress.me/sixcolors?type=xml
-      title: Six Colors
-    - url: https://www.vienna-rss.com/feed.xml
-      title: Vienna Developer Blog
-    - url: https://github.com/ViennaRSS/vienna-rss/discussions.atom
-      title: Vienna Support
     - url: https://aworkinglibrary.com/feed/index.xml
       title: A Working Library
     - url: https://xkcd.com/rss.xml
       title: Xkcd
-    - url: https://www.theverge.com/rss/partner/subscriber-only-full-feed/rss.xml
-      title: The Verge
-    - url: https://selfh.st/rss/
-      title: selfh.st
-    - url: https://holdtherobot.com/blog/rss.xml
-      title: Hold the Robot
     - url: https://electrek.co/feed
       title: Electrek
     - url: https://www.wired.com/feed/rss
