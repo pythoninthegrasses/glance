@@ -31,6 +31,7 @@ This project uses Task (Taskfile) for task automation:
 ### Docker Build Secrets & Fingerprinting
 
 The project supports secure Docker builds using build secrets and automatic fingerprinting:
+
 - **Build-time secrets**: Available during `RUN` commands but not embedded in final image
 - **Environment variables**: Passed as build arguments for non-sensitive values
 - **File-based secrets**: `.env` file can be mounted as secret during build
@@ -38,7 +39,9 @@ The project supports secure Docker builds using build secrets and automatic fing
 - **Automatic Fingerprinting**: Tasks automatically detect config file changes and rebuild when needed
 
 #### Fingerprinting
+
 Tasks use `sources` and `generates` attributes to fingerprint files:
+
 - **Sources**: `Dockerfile`, `config/**/*`, `assets/**/*`, `.env`
 - **Generates**: Docker images with specific tags
 - **Benefit**: Tasks only run when source files change, preventing unnecessary rebuilds
@@ -113,12 +116,12 @@ The configuration uses YAML anchors and references (`&reddit-props`, `<<: *reddi
         -d "grant_type=client_credentials"
     ```
 
-
 ## Context7 Libraries
 
 - glanceapp/glance
 - docker/docs
 - stackexchange/dnscontrol
+- websites/docs_dokploy_com-docs-core
 - websites/taskfile_dev
 
 ## Memories
