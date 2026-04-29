@@ -1,6 +1,6 @@
 - type: rss
   collapse-after: 6
-  limit: 20
+  limit: 15
   cache: 8h
   style: vertical-list
   feeds:
