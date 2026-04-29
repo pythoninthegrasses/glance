@@ -1,84 +1,26 @@
+# https://www.youtube.com/feed/subscriptions
+# Click channel > Description > Share channel > Copy channel ID
+
 - type: videos
   channels:
-    - UCBJycsmduvYEL83R_U4JriQ  # Marques Brownlee
-    - UCsBjURrPoezykLs9EqgamOA  # @Fireshipio
+    - UC-kM5kL9CgjN9s9pim089gg  # @TheAdamConover
+    - UC1E1SVcVyU3ntWMSQEp38Yw  # @TheProfGPod
+    - UC3XTzVzaHQEd30rQbuvCtTQ  # @LastWeekTonight
     - UC8ENHE5xdFSwx71u3fDH5Xw  # @ThePrimeagen
     - UCajiMK_CY9icRhLepS8_3ug  # Alex Ziskind
-    - UCVhQ2NnY5Rskt6UjCUkJ_DA  # @ArjanCodes
-    - UC-kM5kL9CgjN9s9pim089gg  # @TheAdamConover
-    - UCXuqSBlHAE6Xw-yeJA0Tunw  # Linus Tech Tips
-    - UC2Xd-TjJByJyK2w1zNwY0zQ  # @beyondfireship
+    - UCarEovlrD9QY-fy-Z6apIDQ  # @HasanMinhaj
+    - UCBa659QWEk1AI4Tg--mrJ2A  # @TomScottGo
+    - UCBJycsmduvYEL83R_U4JriQ  # Marques Brownlee
+    - UCCJFWxm9fUtB4hPzNvmfcMA  # @JamesMayDrinks
     - UCdld7SHk9IyYSkNrHA9B6Dw  # @AYEON
-    - UCymAe0Jy9qd7ESSQISq3Wow  # @ApteraMotors
-    - UCshObcm-nLhbu8MY50EZ5Ng  # @BennJordan
-    - UCHL9bfHTxCMi-7vfxQ-AYtg  # @AbroadinJapan
-    - UCkdgAA0rfK7lG5dv4o__Paw  # @albertatech
-    - UCyQ-DUV6lZgoL8wiPusYiUg  # @AmeliaDimoldenberg
-    - UC9_p50tH3WmMslWRWKnM7dQ  # @aragusea
-    - UCV2NstswrQwI5AnRtR3Y4yA  # @aslye
-    - UC2J-0g_nxlwcD9JBK1eTleQ  # @AutoFocus
-    - UCraiFqWi0qSIxXxXN4IHFBQ  # @BeABetterDev
-    - UCvG04Y09q0HExnIjdgaqcDQ  # @becausescience
-    - UCptlnsqjPBIf4-C9XuXek_Q  # @belafleckbanjo
-    - UCP67S6tmE0xv62yQLg9hnmg  # @BitfieldConsulting
-    - UCyInWbfnusRozzHDh7cKuQA  # @BruteLogic
-    - UCdoPCztTOW7BJUPk2h5ttXA  # @CallMeKevin
-    - UC2C_jShtL725hvbm1arSV9w  # @CGPGrey
-    - UCZNhwA1B5YqiY1nLzmM0ZRg  # @christianlempa
-    - UCwbsAsY_C6EmGI6_JHhECEQ  # @CodingForEverybody
-    - UCD4_1Ct4_SQYLy2E2el4J0Q  # @conduitry
-    - UCpIz77YrCeyMlxkSJIv87FA  # @controlplanecorporation
-    - UCp3yVOm6A55nx65STpm3tXQ  # @CraftComputing
-    - UCNzszbnvQeFzObW0ghk0Ckw  # @DavesGarage
-    - UCP7WmQ_U4GB3K51Od9QvM0w  # @DavidBombal
-    - UCgthzga3oCo4Kkhx2x5gPDA  # @DennisFaucher
-    - UCqC2G2M-rg4fzg1esKFLFIw  # @deno_land
-    - UClb90NQQcskPUGDIXsQEz5Q  # @developedbyed
-    - UCVls1GmFKf6WlTraIb_IaJg  # @DistroTube
-    - UCW_rmuloTXSIGV1jQG9kEgQ  # @DockerOfficial
-    - UC5mnBodB73bR88fLXHSfzYA  # @eddiejaoude
-    - UCrUL8K81R4VBzm-KOYwrcxQ  # @EngineerMan
-    - UCfx3qORJmTZa8bzlymhUGow  # @FalconEspresso
-    - UCicDePJIa16hyEUZTG0wUOg  # @Frontendfyi
-    - UClx4eJ_EP9MJdz19JUjKD1w  # @gamingcareers
-    - UCZFUrFoqvqlN8seaAeEwjlw  # @grantabbitt
-    - UCR4s1DE9J4DHzZYXMltSMAg  # @howtobasic
-    - UCmEzz-dPBVrsy4ZluSsYHDg  # @hyperplexed
-    - UCHBHdL15vmP9Et4gCUkADPg  # @iamdevloper
-    - UCmIWpA9rVcdrP2xd9I2HFZA  # @InfiniteAmmoInc
-    - UCPiN9NPjIer8Do9gUFxKv7A  # @InsiderPhD
-    - UCQALLeQPoZdZC4JNUboVEUg  # @Jabrils
-    - UCgEhrOPZZqawQrjWpO4J4VQ  # @jameskettle
-    - UC-T8W79DN6PBnzomelvqJYw  # @JamesQQuick
+    - UCGwyQM5eQOTxoeHOZaMwzSg  # @track-star-show
+    - UCLXo7UDZvByw2ixzpQCufnA  # @Vox
+    - UCnxuOd8obvLLtf5_-YKFbiQ  # @EzraKleinShow
+    - UCoZQiN0o7f36H7PaW4fVhFw  # @RetroGameCorps
+    - UCQMELFlXQL38KPm8kM-4Adg  # @jaylenosgarage
     - UCR-DXc1voovS8nhAvccRZhg  # @JeffGeerling
-    - UCsXVk37bltHxD1rDPwtNM8Q  # @kurzgesagt
-    - UCFbtcTaMFnOAP0pFO1L8hVw  # @KyleHillScience
-    - UCyU5wkjgQYGRB0hIHMwm2Sg  # @leveluptuts
-    - UCZJiXG_auf0o7LByqC1LHuQ  # @miguelgrinberg
-    - UCjFaPUcJU1vwk193mnW_w1w  # @ModernVintageGamer
-    - UCJGeBpBh9_Q0B_EKPmj14Pg  # @MorningBrewDailyShow
-    - UCMiJRAwDNSNzuYeN2uWa0pA  # @mrwhosetheboss
-    - UCrkPsvLGln62OMZRO6K-llg  # @nickchapsas
-    - UCUMwY9iS8oMyWDYIe6_RmoA  # @NoBoilerplate
-    - UCNIuvl7V8zACPpTmmNIqP2A  # @OverSimplified
-    - UCpzgTNTgQsR9YYsyOm3k3KQ  # @pianolounge
-    - UCWv7vMbMWH4-V0ZXdmDpPBA  # @ProgrammingWithMosh
-    - UCW6MNdOsqv2E9AjQkv9we7A  # @PwnFunction
-    - UCmr_2dlYM0pYHdI9TeF5SIQ  # @rudyayoub
-    - UC2uPNhGken-ogEpJDi4ly6w  # @SANSInstitute
-    - UCWRmZvwkp6oNca2wW3uFcFg  # @satvik
-    - UCtMVHI3AJD4Qk4hcbZnI9ZQ  # @SomeOrdinaryGamers
-    - UCQN2DsjnYH60SFBIA6IkNwg  # @STOKfredrik
-    - UCAiiOTio8Yu69c3XnR7nQBQ  # @SystemCrafters
-    - UCeeFfhMcJa1kjtfZAGskOCA  # @TechLinked
-    - UC0vBXGSyV14uvJ4hECDOl0Q  # @techquickie
-    - UCdngmbVKX1Tgre699-XLlUA  # @TechWorldwithNana
-    - UCHa0XQ8JALZ7rd13LoR99vQ  # @TheShadowBrokers
-    - UCsTcErHg8oDvUnTzoqsYeNw  # @unboxtherapy
-    - UCHnyfMqiRRG1u-2MsSQLbXA  # @Veritasium
-    - UCoebwHSTvwalADTJhps0emA  # @wesbos
-    - UCfniixfhHqpIGbU7z2JCNJw  # @WesDoyle
-    - UCOujgO5S-Zn8DqpFrvzeIqA  # @WowMao
-    - UC2pdmlMIATaSfaxNuRTL4OA  # @ZacCoxTV
-    - UCMlSs0Ltg57qpYdFwUVLR2A  # @zachleat
-    - UCCUFgj-52_ryvpQUacylRpg  # @zseano
+    - UCsBjURrPoezykLs9EqgamOA  # @Fireshipio
+    - UCsqjHFMB_JYTaEnf_vmTNqg  # @DougDeMuro
+    - UCVhQ2NnY5Rskt6UjCUkJ_DA  # @ArjanCodes
+    - UCXuqSBlHAE6Xw-yeJA0Tunw  # Linus Tech Tips
+    - UCyoC6ap2VVf43aL2PxdxekA  # @ThisisGavinNewsom

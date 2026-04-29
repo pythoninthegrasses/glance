@@ -1,7 +1,7 @@
 - type: rss
   collapse-after: 6
   limit: 25
-  cache: 4h
+  cache: 8h
   style: vertical-list
   feeds:
     - url: https://feeds.allenpike.com/feed/
