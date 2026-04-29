@@ -12,8 +12,6 @@
       title: Apple News
     - url: https://feeds.arstechnica.com/arstechnica/index/
       title: Ars Technica
-    - url: https://apod.nasa.gov/apod.rss
-      title: Astronomy Picture of the Day
     - url: https://feeds.bbci.co.uk/news/world/rss.xml
       title: BBC News
     - url: https://www.thisiscolossal.com/feed/
