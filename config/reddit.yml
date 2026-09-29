@@ -11,6 +11,12 @@
         secret: ${REDDIT_APP_SECRET}
 
     - <<: *reddit-widget
+      subreddit: LocalLLaMA
+
+    - <<: *reddit-widget
+      subreddit: LocalLLM
+
+    - <<: *reddit-widget
       subreddit: MurderedByWords
 
     - <<: *reddit-widget
@@ -18,9 +24,6 @@
 
     - <<: *reddit-widget
       subreddit: IAmA
-
-    - <<: *reddit-widget
-      subreddit: ClaudeAI
 
     - <<: *reddit-widget
       subreddit: gaming
@@ -44,9 +47,6 @@
       subreddit: ProgrammerHumor
 
     - <<: *reddit-widget
-      subreddit: webdev
-
-    - <<: *reddit-widget
       subreddit: linux_gaming
 
     - <<: *reddit-widget
@@ -65,43 +65,16 @@
       subreddit: devops
 
     - <<: *reddit-widget
-      subreddit: docker
-
-    - <<: *reddit-widget
       subreddit: computerscience
 
     - <<: *reddit-widget
       subreddit: bestof
 
     - <<: *reddit-widget
-      subreddit: AskReddit
-
-    - <<: *reddit-widget
-      subreddit: ApteraMotors
-
-    - <<: *reddit-widget
-      subreddit: bourbon
-
-    - <<: *reddit-widget
-      subreddit: 1Password
-
-    - <<: *reddit-widget
       subreddit: AdviceAnimals
 
     - <<: *reddit-widget
-      subreddit: AlpineLinux
-
-    - <<: *reddit-widget
-      subreddit: Android
-
-    - <<: *reddit-widget
-      subreddit: ansible
-
-    - <<: *reddit-widget
       subreddit: Arduboy
-
-    - <<: *reddit-widget
-      subreddit: archlinux
 
     - <<: *reddit-widget
       subreddit: AskHistorians
@@ -110,28 +83,13 @@
       subreddit: askscience
 
     - <<: *reddit-widget
-      subreddit: atheism
-
-    - <<: *reddit-widget
-      subreddit: bash
-
-    - <<: *reddit-widget
       subreddit: churning
-
-    - <<: *reddit-widget
-      subreddit: CloudFlare
 
     - <<: *reddit-widget
       subreddit: dating_advice
 
     - <<: *reddit-widget
-      subreddit: debian
-
-    - <<: *reddit-widget
       subreddit: DIY
-
-    - <<: *reddit-widget
-      subreddit: django
 
     - <<: *reddit-widget
       subreddit: europe
@@ -143,37 +101,10 @@
       subreddit: financialindependence
 
     - <<: *reddit-widget
-      subreddit: framework
-
-    - <<: *reddit-widget
-      subreddit: GetMotivated
-
-    - <<: *reddit-widget
-      subreddit: golang
-
-    - <<: *reddit-widget
-      subreddit: gpdwin
-
-    - <<: *reddit-widget
-      subreddit: hackernews
-
-    - <<: *reddit-widget
       subreddit: IsItBullshit
 
     - <<: *reddit-widget
-      subreddit: kubernetes
-
-    - <<: *reddit-widget
-      subreddit: learnprogramming
-
-    - <<: *reddit-widget
-      subreddit: learnpython
-
-    - <<: *reddit-widget
       subreddit: linux
-
-    - <<: *reddit-widget
-      subreddit: LocalLLaMA
 
     - <<: *reddit-widget
       subreddit: mac
@@ -191,19 +122,7 @@
       subreddit: MiniPCs
 
     - <<: *reddit-widget
-      subreddit: MoonlightStreaming
-
-    - <<: *reddit-widget
       subreddit: MovieDetails
-
-    - <<: *reddit-widget
-      subreddit: networking
-
-    - <<: *reddit-widget
-      subreddit: ollama
-
-    - <<: *reddit-widget
-      subreddit: onivim
 
     - <<: *reddit-widget
       subreddit: opensource
@@ -216,9 +135,6 @@
 
     - <<: *reddit-widget
       subreddit: pics
-
-    - <<: *reddit-widget
-      subreddit: PikaOS
 
     - <<: *reddit-widget
       subreddit: politics
@@ -236,28 +152,7 @@
       subreddit: raspberry_pi
 
     - <<: *reddit-widget
-      subreddit: redhat
-
-    - <<: *reddit-widget
       subreddit: retrogaming
-
-    - <<: *reddit-widget
-      subreddit: retroid
-
-    - <<: *reddit-widget
-      subreddit: rust
-
-    - <<: *reddit-widget
-      subreddit: SBCGaming
-
-    - <<: *reddit-widget
-      subreddit: science
-
-    - <<: *reddit-widget
-      subreddit: Seattle
-
-    - <<: *reddit-widget
-      subreddit: selfhelp
 
     - <<: *reddit-widget
       subreddit: selfhosted
@@ -266,28 +161,7 @@
       subreddit: selfimprovement
 
     - <<: *reddit-widget
-      subreddit: shortcuts
-
-    - <<: *reddit-widget
-      subreddit: software
-
-    - <<: *reddit-widget
-      subreddit: SteamDeck
-
-    - <<: *reddit-widget
-      subreddit: synology
-
-    - <<: *reddit-widget
-      subreddit: sysadmin
-
-    - <<: *reddit-widget
       subreddit: technology
-
-    - <<: *reddit-widget
-      subreddit: Terraform
-
-    - <<: *reddit-widget
-      subreddit: ThSw
 
     - <<: *reddit-widget
       subreddit: todayilearned
@@ -302,22 +176,10 @@
       subreddit: unixporn
 
     - <<: *reddit-widget
-      subreddit: UpNote_App
-
-    - <<: *reddit-widget
       subreddit: UpliftingNews
 
     - <<: *reddit-widget
-      subreddit: UTMapp
-
-    - <<: *reddit-widget
-      subreddit: VitaPiracy
-
-    - <<: *reddit-widget
       subreddit: YouShouldKnow
-
-    - <<: *reddit-widget
-      subreddit: ZedEditor
 
     - <<: *reddit-widget
       subreddit: Zig
